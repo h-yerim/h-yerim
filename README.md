@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-![h-yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-yerim&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h-yerim&layout=compact)
 
 <!--
 **h-yerim/h-yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
