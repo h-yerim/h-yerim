@@ -2,8 +2,8 @@
 ## Hi there 👋
 
 Skills
-<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Airflow-#017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h-yerim&layout=compact)
