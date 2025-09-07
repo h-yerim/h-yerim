@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## Hi there 👋
+![h-yerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **h-yerim/h-yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
