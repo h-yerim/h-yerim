@@ -1,17 +1,13 @@
-
-## Hi there 👋
-
+## ✨ Skills
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f?style=flat-square&logo=MySQL&logoColor=white)
-
 <!-- Python Libraries -->
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white)
