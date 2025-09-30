@@ -1,4 +1,4 @@
-## ✅ Hyerim's Github 
+##  🍀 Hyerim's Github 🍀 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h-yerim&layout=compact)
 
 ## ✨ Skills
